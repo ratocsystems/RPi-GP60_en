@@ -34,7 +34,7 @@ Please make the following preparations.
 Download the Python sample file from GitHub.
 1. Download sampleGp60.py
     ```
-    $ wget https://github.com/ratocsystems/rpi-gp60/raw/master-en/python/sampleGp60.py  
+    $ wget https://github.com/ratocsystems/rpi-gp60_en/raw/master-en/python/sampleGp60.py
     ```  
 
 1. Run the `ls` command to verify that the Python sample file` sampleGp60.py` has been downloaded.

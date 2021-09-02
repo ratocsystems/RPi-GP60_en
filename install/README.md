@@ -3,7 +3,7 @@
 This section describes the settings of Raspberry Pi OS (Rasbian), which is the OS for Raspberry Pi.
 Raspberry Pi is described as 'Raspberry Pi3 ModelB', 
 Raspberry Pi Imager is 'Raspberry Pi Imager 1.6.2',
-Raspberry Pi OS is 'Raspberry Pi OS Version 2021-03-04)'.
+Raspberry Pi OS is 'Raspberry Pi OS Version 2021-03-04'.
 * In May 2020, the name was changed from "Rasbian" to "Raspberry Pi OS".
 
 ## Raspberry Pi OS installation
